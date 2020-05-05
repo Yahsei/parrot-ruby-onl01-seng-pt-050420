@@ -6,3 +6,7 @@ def #parrot(phrase = "Squawk!")
   return "squawk!"
 end
 
+def parrot(phrase = "Squwak!")
+ #put out the phrase
+#return the phrase
+end
